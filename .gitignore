@@ -1,6 +1,7 @@
 *.txt
 */bin/
 Part */
+settings.json
 !Part 01
 !Part 02
-**/settings.json
+!Part 03
