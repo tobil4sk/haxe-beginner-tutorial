@@ -2,7 +2,4 @@
 */bin/
 Part */
 settings.json
-!Part 01
-!Part 02
-!Part 03
-!Part 04
+!Part 0[1-5]
