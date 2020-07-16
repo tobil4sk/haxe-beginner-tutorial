@@ -2,7 +2,7 @@ class Main {
 	static function main() {
 		// plain operator
 		var a = 10;
-		var b = 5
+		var b = 5;
 		var result = a * b;
 		//trace(result);
 
@@ -23,7 +23,7 @@ class Main {
 		var toDouble = 10;
 		toDouble *= 2;
 
-		trace(toDouble);
+		//trace(toDouble);
 
 		// increment (increase by one)
 		var num = 10;
