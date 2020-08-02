@@ -13,7 +13,7 @@ class Main {
 		// trace(namesDifferent);
 
 		var highscore = 10;
-		var newscore = 6
+		var newscore = 6;
 
 		var scoreBeaten = newscore > highscore;
 		//trace(scoreBeaten);
